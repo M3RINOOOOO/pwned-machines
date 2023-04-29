@@ -1,0 +1,4 @@
+# Nmap 7.93 scan initiated Sat Apr 29 15:51:46 2023 as: nmap -p- --open -sS -n -Pn --min-rate 5000 -oG allPorts 10.10.11.194
+Host: 10.10.11.194 ()	Status: Up
+Host: 10.10.11.194 ()	Ports: 22/open/tcp//ssh///, 80/open/tcp//http///, 9091/open/tcp//xmltec-xmlmail///
+# Nmap done at Sat Apr 29 15:51:59 2023 -- 1 IP address (1 host up) scanned in 13.58 seconds
